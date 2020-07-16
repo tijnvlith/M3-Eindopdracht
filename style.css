@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightgray;
+}
+
+ul {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+ul :nth-child(1) {
+  background-color: lightgrey;
+}
+
+ul :nth-child(2) {
+  background-color: blue;
+}
+
+ul :nth-child(3) {
+  background-color: orange;
+}
+
+ul :nth-child(4) {
+  background-color: red;
+}
+
+ul :nth-child(5) {
+  background-color: green;
+}
+
+ul li {
+  color: white;
+  list-style-type: none;
+  padding: 20px 20px 20px;
+  width: 45px;
+  text-align: center;
+}
+
+i {
+  margin-left: 35px;
+  margin-top: 20px;
+}
+
+.open {
+  margin-left: -400px;
+}
+
+.grey {
+  background-color: lightgrey;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map */
